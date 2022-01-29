@@ -9,4 +9,4 @@ I'm:
 » 🎮 Minecraft Player  
 
 ### 🌐 My website  
-➡ h[Click Here](https://wildzun.tk/)
+➡ [Click Here](https://wildzun.tk/)
