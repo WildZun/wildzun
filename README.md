@@ -13,6 +13,6 @@ I'm:
 
 ### ⌨ My projects
 
-» [bladelist.gg](https://bladelist.gg)  
+» [BladeList.gg](https://bladelist.gg)  
 » ErixBOT
 » Minecraft Servers Listing
