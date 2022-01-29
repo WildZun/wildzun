@@ -14,5 +14,5 @@ I'm:
 ### ⌨ My projects
 
 » [BladeList.gg](https://bladelist.gg)  
-» ErixBOT
+» Erix  
 » Minecraft Servers Listing
