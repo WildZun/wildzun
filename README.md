@@ -10,3 +10,9 @@ I'm:
 
 ### 🌐 My website  
 ➡ [Click Here](https://wildzun.tk/)
+
+### ⌨ My projects
+
+» [bladelist.gg](https://bladelist.gg)  
+» ErixBOT
+» Minecraft Servers Listing
