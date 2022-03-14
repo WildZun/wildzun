@@ -15,4 +15,3 @@ I'm:
 
 » [BladeList.gg](https://bladelist.gg)  
 » Erix  
-» Minecraft Servers Listing
