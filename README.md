@@ -13,5 +13,5 @@ I'm:
 
 ### ⌨ My projects
 
-» [BladeList.gg](https://bladelist.gg)  
+» Plopsa Project
 » Erix  
