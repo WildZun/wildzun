@@ -13,5 +13,5 @@ I'm:
 
 ### ⌨ My projects
 
-» Plopsa Project
+» Plopsa Project  
 » Erix  
