@@ -9,7 +9,7 @@ I'm:
 » 🎮 Minecraft Player  
 
 ### 🌐 My website  
-➡ [Click Here](https://wildzun.tk/)
+➡ [Click Here](https://wildzun.fr/)
 
 ### ⌨ My projects
 
