@@ -14,4 +14,7 @@ I'm:
 ### ⌨ My projects
 
 » Plopsa Project  
-» Erix  
+» Erix
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=wildzun)]()
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wildzun&langs_count=5)]()
