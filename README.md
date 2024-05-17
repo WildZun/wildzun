@@ -5,7 +5,7 @@ I'm:
 
 » Français/French  
 » 🎬 Twitch Affiliate Streamer  
-» 💻 Junior Developer 
+» 💻 Junior Developer  
 » 🎮 Minecraft Player  
 
 ### 🌐 My website  
